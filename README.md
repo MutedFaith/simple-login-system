@@ -4,31 +4,40 @@ Login system with block and unblock feature built in React JS and native PHP (OO
 
 ### Screenshots
 
-Login Form:
+**Login Form:**
+
 ![Image of Login Form](./screenshots/screenshot-login.png)
 
-Registration Form:
+**Registration Form:**
+
 ![Image of Registration Form](./screenshots/screenshot-register.png)
 
-Home - Active User Tab:
+**Home - Active User Tab:**
+
 ![Image of Home - Active User Tab](./screenshots/screenshot-home-active-user.png)
 
-Home - Blocked User Tab:
+**Home - Blocked User Tab:**
+
 ![Image of Home - Blocked User Tab](./screenshots/screenshot-home-blocked-user.png)
 
-Block User Warning:
+**Block User Warning:**
+
 ![Image of Block User Warning](./screenshots/screenshot-block-warning.png)
 
-Blocked User Success:
+**Blocked User Success:**
+
 ![Image of Block User Success](./screenshots/screenshot-blocked-success.png)
 
-Unblock User Warning:
+**Unblock User Warning:**
+
 ![Image of Unblock User Warning](./screenshots/screenshot-unblock-warning.png)
 
-Unblocked User Success:
+**Unblocked User Success:**
+
 ![Image of Unblock User Success](./screenshots/screenshot-unblocked-success.png)
 
-Login Blocked User:
+**Login Blocked User:**
+
 ![Image of Login Blocked User](./screenshots/screenshot-login-blocked.png)
 
 ## Prerequisites
