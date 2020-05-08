@@ -59,9 +59,7 @@ class Home extends Component {
           </Modal.Title>
         </Modal.Header>
         <Modal.Body>
-          {`Do you really want to ${
-            status ? "deactivate" : "activate"
-          } this user`}
+          {`Do you really want to ${status ? "block" : "unblock"} this user`}
         </Modal.Body>
         <Modal.Footer>
           <Button size="sm" variant="secondary" onClick={this.handleHideModal}>

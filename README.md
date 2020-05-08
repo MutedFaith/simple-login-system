@@ -1,4 +1,43 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Login System built in React and PHP
+
+Login system with block and unblock feature built in React JS and native PHP (OOP)
+
+### Screenshots
+
+Login Form:
+![Image of Login Form](./screenshots/screenshot-login.png)
+
+Registration Form:
+![Image of Registration Form](./screenshots/screenshot-register.png)
+
+Home - Active User Tab:
+![Image of Home - Active User Tab](./screenshots/screenshot-home-active-user.png)
+
+Home - Blocked User Tab:
+![Image of Home - Blocked User Tab](./screenshots/screenshot-home-blocked-user.png)
+
+Block User Warning:
+![Image of Block User Warning](./screenshots/screenshot-block-warning.png)
+
+Blocked User Success:
+![Image of Block User Success](./screenshots/screenshot-blocked-success.png)
+
+Unblock User Warning:
+![Image of Unblock User Warning](./screenshots/screenshot-unblock-warning.png)
+
+Unblocked User Success:
+![Image of Unblock User Success](./screenshots/screenshot-unblocked-success.png)
+
+Login Blocked User:
+![Image of Login Blocked User](./screenshots/screenshot-login-blocked.png)
+
+## Prerequisites
+* XAMPP version >= 3.2.2
+* Node.JS >= 12.16.3
+* NPM >= 6.14.4
+
+## Installation
+Move the `loginsystemapi` folder into the `htdocs` folder that is located in `directory:\xampp\htdocs`. It will serve as the backend api of the system.
 
 ## Available Scripts
 
@@ -10,7 +49,7 @@ Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+You will also see any lint errors in the console.965580965580
 
 ### `npm test`
 
